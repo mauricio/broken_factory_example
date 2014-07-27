@@ -1,0 +1,6 @@
+test:
+  sessions:
+    default:
+      database: broken_factory_example
+      hosts:
+        - localhost:27017
